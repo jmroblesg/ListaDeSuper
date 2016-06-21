@@ -1,0 +1,40 @@
+body {
+  background-color: #B0C4DE;
+}
+
+h1 {
+  color:#ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 3em;
+  text-align: center;
+}
+h2 {
+  color:#ff0000;
+  font-family: 'Coming Soon', cursive;
+  font-size: 2em;
+}
+p {
+  color:#ff0000;
+  font-family: 'Coming Soon', cursive;
+  font-size: 2em;
+}
+h3 {
+  color:#0000ff;
+  font-family: 'Coming Soon', cursive;
+  font-size: 1em;
+}
+img {
+  width:250px;
+  height: auto;
+}
+
+
+.fondo {
+  text-align: center;
+  width: 1024px;
+  height: 768px;
+}
+
+
+
+ {mítica}
